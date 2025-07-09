@@ -1,6 +1,7 @@
 # Tech Vyuha
 
-## Hi there 👋, 🚀 Project Offerings in Domain
+## Hi there 👋  
+🚀 **Project Offerings in Various Domains**
 
 We offer a wide variety of hands-on, real-world project solutions that help students, interns, and businesses build practical knowledge in the following domains:
 
@@ -11,18 +12,38 @@ We offer a wide variety of hands-on, real-world project solutions that help stud
 1. E-commerce Website with Admin Panel  
 2. Job Portal with Resume Screening  
 3. Online Voting System with Verification  
-4. Freelancer Marketplace   
+4. Freelancer Marketplace  
 5. Portfolio Builder Website  
 6. College ERP System (Student + Admin Dashboard)  
 7. Online Food Ordering System with Tracking  
 8. Event Booking and Ticketing Platform  
 9. Student Attendance System using QR  
-10. Chat Application with Real-Time Support 
+10. Chat Application with Real-Time Support  
 11. Blogging Platform  
 12. Learning Management System (LMS)  
 13. Feedback/Survey Collection Platform  
 14. Personal Finance Web App with Graphs  
-15. URL Shortener 
+15. URL Shortener  
+
+---
+
+## ☕ Java Projects
+
+1. Library Management System  
+2. Online Quiz System  
+3. Student Result Management System  
+4. ATM Simulation System  
+5. E-Billing System  
+6. Online Banking System  
+7. Hotel Management System  
+8. Vehicle Management System  
+9. Courier Management System  
+10. Flight Reservation System  
+11. Employee Record Management  
+12. Payroll Management System  
+13. Tourism Management System  
+14. Appointment Booking System  
+15. Online Voting System (Desktop App)  
 
 ---
 
@@ -48,7 +69,7 @@ We offer a wide variety of hands-on, real-world project solutions that help stud
 
 ## 🤖 Machine Learning (ML)
 
-1. Fake News Detection using NLP 
+1. Fake News Detection using NLP  
 2. Movie/Book Recommendation System  
 3. Real-time Emotion Detection via Webcam  
 4. House Price Prediction using Regression  
@@ -56,13 +77,13 @@ We offer a wide variety of hands-on, real-world project solutions that help stud
 6. Human Activity Recognition  
 7. Credit Card Fraud Detection  
 8. Image Caption Generator with Deep Learning  
-9. Resume Screening System (ML-based)  
+9. Resume Screening System  
 10. Music Genre Classification  
-11. Handwritten Digit Recognition (MNIST)  
+11. Handwritten Digit Recognition  
 12. Loan Approval Prediction  
 13. Spam Email Classification  
 14. Driver Drowsiness Detection  
-15. Stock Price Forecasting using LSTM  
+15. Stock Price Forecasting  
 
 ---
 
@@ -101,7 +122,7 @@ We offer a wide variety of hands-on, real-world project solutions that help stud
 11. Blood Donation and Request App  
 12. e-Learning App with PDF/Video Integration  
 13. Job Search App with Filters  
-14. Game applicaations (Tic-tac-toe, Flappy bird, Snake game, Chess)  
+14. Game Applications (Tic-tac-toe, Flappy Bird, Snake Game, Chess)  
 15. Smart Farming Controller App (with IoT)  
 
 ---
@@ -133,7 +154,7 @@ We offer a wide variety of hands-on, real-world project solutions that help stud
 3. Secure File Sharing System with VPN  
 4. Peer-to-Peer Chat and File Sharing  
 5. Load Balancer with Failover Demo  
-6. N-Map tooling and scanning
+6. N-Map Tooling and Scanning  
 7. Remote Access Monitoring System  
 8. Network Intrusion Detection System  
 9. Cloud Networking and Storage Architecture  
@@ -141,7 +162,7 @@ We offer a wide variety of hands-on, real-world project solutions that help stud
 
 ---
 
-## 💼 Contact 
+## 💼 Contact
 
 **Company:** Tech Vyuha
 
@@ -151,8 +172,6 @@ We also offer:
 - Documentation, PPT, Report, and Code Walkthroughs  
 - Training sessions on tools like Firebase, Streamlit, Power BI, etc  
 
-📩 **Get in touch to start your project today!**
-
+📩 **Get in touch to start your project today!**  
 📧 Email: [business.techvyuha@gmail.com](mailto:business.techvyuha@gmail.com)  
 📞 Phone: [+91 7338218329](tel:+917338218329) / [+91 7204917937](tel:+917204917937)
-
